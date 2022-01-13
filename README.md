@@ -47,10 +47,10 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I'm currently working on JS/React applications with a backend set up in Ruby
-- :seedling: I'm currently learning Redux
+- :telescope: I'm currently working on [info here]
+- :seedling: I'm currently learning [info here]
 - :speech_balloon: Ask me about anything!
-- :crown: Fun fact: Bob Ross is my spirit aniaml.
+- :crown: Fun fact: [info here].
 ## Skills & Experience
 Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Figma
 <!-- ## Let's Connect! -->
