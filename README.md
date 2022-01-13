@@ -9,13 +9,13 @@
 <!-- I'm excited to combine my years of B2B work experience and strong communication skills with my new expertise in programming to launch a new career as a developer!  -->
 <p align="center">
   <samp>
- Hi there! My name is Garrett Dick and I am a Full-Stack Jr. Software Developer from Houston,TX. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving. With a background in IT and CRM Programing, I've collaborated cross-platform intergration for user front-end programs ensuring ease of use for B2B.
+ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for [more bio info here].
   </samp>
   </p>
   <br>
   <p align="center">
    <samp>
-   When I'm not coding, you can find me gaming, camping, or spending time with my family.
+   When I'm not coding, you can find me reading, painting, or surfing.
     </samp>
   <br>
   <br><br>
