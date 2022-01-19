@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   </samp>
   </h1>
-<img src="https://quotefancy.com/media/wallpaper/3840x2160/16819-George-Bernard-Shaw-Quote-People-who-say-it-cannot-be-done-should.jpg" alt="header image" height="230px"/>
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/16819-George-Bernard-Shaw-Quote-People-who-say-it-cannot-be-done-should.jpg" alt="header image" width="100%" height="auto"/>
 <hr>
 <!-- I'm excited to combine my years of B2B work experience and strong communication skills with my new expertise in programming to launch a new career as a developer!  -->
 <p align="center">
