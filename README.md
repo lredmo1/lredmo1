@@ -37,7 +37,7 @@ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software De
   <img src="https://img.shields.io/badge/Scrum-6E0FF5 ?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Heroku-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-BCE94C?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-#F0409A?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-F0409A?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 &nbsp;
