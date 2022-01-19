@@ -26,7 +26,7 @@ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software De
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><samp> Technologies </samp> </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML-#33FFF4?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-33FFF4?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
@@ -37,7 +37,7 @@ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software De
   <img src="https://img.shields.io/badge/Scrum-6E0FF5 ?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Heroku-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-BCE94C?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-7EEED9 ?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-#F0409A?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 &nbsp;
