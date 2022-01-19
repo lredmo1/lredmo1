@@ -33,9 +33,9 @@ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software De
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Figma" src="https://img.shields.io/badge/ActiveRecord-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scrum-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Heroku-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
