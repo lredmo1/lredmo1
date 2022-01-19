@@ -13,7 +13,7 @@ My name is Lisa Primeaux-Redmond and I am a full-stack junior software developer
   </samp>
   <p>
   <samp>
-I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
+I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a career as a developer! 
   </samp>
   </p>
   </p>
