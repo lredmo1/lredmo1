@@ -40,8 +40,7 @@ I am eager to combine my experience in product development and project managemen
   <img src="https://img.shields.io/badge/Firebase-BCE94C?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-F0409A?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
-<hr>
-&nbsp;
+
 <hr>
 <!-- <h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles</samp></h2> -->
 <h2 align="center"> Blogs</h2>
