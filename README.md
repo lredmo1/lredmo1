@@ -51,7 +51,7 @@ I am eager to combine my experience in product development and project managemen
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-:clock: My next project is my personal portfolio website.<br>
+:&#8987: My next project is my personal portfolio website.<br>
 :seedling: I'm currently learning constructors.<br>
 :speech_balloon: Ask me about anything!<br>
 :crown: Fun fact: I swam around the Key West island. The 12.5 mile swim took me 8 hours and 15 minutes!
