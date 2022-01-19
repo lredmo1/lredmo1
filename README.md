@@ -9,7 +9,8 @@
 
 <p align="center">
   <samp>
-Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
+Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
+I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
   </samp>
   </p>
   <br>
