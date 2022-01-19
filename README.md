@@ -10,7 +10,9 @@
 <p align="center">
   <samp>
 Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
-I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
+</samp>
+<samp>
+  I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
   </samp>
   </p>
   <br>
@@ -23,18 +25,19 @@ I am eager to combine my experience in product development and project managemen
 <hr>
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><samp> Technologies </samp> </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scrum-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Heroku-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 &nbsp;
