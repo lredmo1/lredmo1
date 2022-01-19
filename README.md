@@ -51,11 +51,11 @@ I am eager to combine my experience in product development and project managemen
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img height="100%" alt="Thanks for visiting my site!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
 :telescope: My next project is my personal portfolio website.<br>
 :seedling: I'm currently learning constructors.<br>
 :speech_balloon: Ask me about anything!<br>
-:crown: Fun fact: I swam around the Key West island. It took me 8 hours and 15 minutes!
+:crown: Fun fact: I swam around the Key West island. The 12.5 mile swim took me 8 hours and 15 minutes!
 
 <h2 align="center">Let's Connect!<h2>
 <p align="center">
