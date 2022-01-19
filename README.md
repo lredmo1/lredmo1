@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   </samp>
   </h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fquote%2F6041%2FGeorge-Bernard-Shaw-People-who-say-it-cannot-be-done-should-not-interrupt-those-who-are&psig=AOvVaw3d3T6rCPa4GljvTwI-JrXg&ust=1642644287997000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCHz_zcvPUCFQAAAAAdAAAAABAF" alt="header image" width="1100px" height="230px"/>
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/16819-George-Bernard-Shaw-Quote-People-who-say-it-cannot-be-done-should.jpg" alt="header image" width="1100px" height="230px"/>
 <hr>
 <!-- I'm excited to combine my years of B2B work experience and strong communication skills with my new expertise in programming to launch a new career as a developer!  -->
 <p align="center">
