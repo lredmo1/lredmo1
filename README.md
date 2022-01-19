@@ -44,7 +44,7 @@ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software De
 <hr>
 <!-- <h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles</samp></h2> -->
 <h2 align="center"> Blogs</h2>
-<h5 align="center"> Published Writer for  [info here]</h5>
+<h5 align="center"> Published Writer for JavaScript in Plain English [info here]</h5>
 <p align="center" align='right'>
   <a target="_blank" href="https://medium.com/@redlisa125">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
