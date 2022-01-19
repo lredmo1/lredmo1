@@ -17,7 +17,6 @@ I am eager to combine my experience in product development and project managemen
   </samp>
   </p>
   </p>
-  <br>
   <p align="center">
    <samp>
    When I'm not coding, you can find me in the ocean. I love swimming, surfing, and snorkeling!
@@ -52,8 +51,8 @@ I am eager to combine my experience in product development and project managemen
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I'm currently working on my personal portfolio website.
+<img height="100%" alt="About Me" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+ :telescope: I'm currently working on my personal portfolio website.
 - :seedling: I'm currently learning constructors.
 - :speech_balloon: Ask me about anything!
 - :crown: Fun fact: I swam around the Key West island. It took me 8 hours and 15 minutes!
