@@ -9,7 +9,7 @@
 
 <p align="center">
   <samp>
-Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
+Hi there! My name is Lisa Primeaux-Redmond and I am a full-stack junior software developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
   </samp>
   <p>
   <samp>
@@ -60,7 +60,7 @@ I am eager to combine my experience in product development and project managemen
 <h2 align="center">Let's Connect!<h2>
 <p align="center">
  <a href="https://github.com/lredmo1"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
- <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lisa-primeaux-redmond/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
+ <a href="https://www.linkedin.com/in/lisa-primeaux-redmond/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
  <a href="https://medium.com/@redlisa125"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'></a> 
 </p>
 <p align="center">
