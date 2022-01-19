@@ -9,7 +9,7 @@
 
 <p align="center">
   <samp>
-Hi there! My name is Lisa Primeaux-Redmond and I am a full-stack junior software developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
+My name is Lisa Primeaux-Redmond and I am a full-stack junior software developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
   </samp>
   <p>
   <samp>
@@ -51,7 +51,7 @@ I am eager to combine my experience in product development and project managemen
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-:telescope: My next project is my personal portfolio website.<br>
+:clock: My next project is my personal portfolio website.<br>
 :seedling: I'm currently learning constructors.<br>
 :speech_balloon: Ask me about anything!<br>
 :crown: Fun fact: I swam around the Key West island. The 12.5 mile swim took me 8 hours and 15 minutes!
