@@ -6,16 +6,16 @@
   </h1>
 <img src="https://quotefancy.com/media/wallpaper/3840x2160/16819-George-Bernard-Shaw-Quote-People-who-say-it-cannot-be-done-should.jpg" alt="header image" width="100%" height="auto"/>
 <hr>
-I am combining my years of product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
+
 <p align="center">
   <samp>
- Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service.
+Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
   </samp>
   </p>
   <br>
   <p align="center">
    <samp>
-   When I'm not coding, you can find me reading, painting, or surfing.
+   When I'm not coding, you can find me in the ocean. I love swimming, surfing, and snorkeling!
     </samp>
   <br>
   <br><br>
