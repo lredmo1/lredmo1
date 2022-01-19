@@ -56,11 +56,11 @@ I am eager to combine my experience in product development and project managemen
 - :speech_balloon: Ask me about anything!
 - :crown: Fun fact: I swam around the Key West island. It took me 8 hours and 15 minutes!
 
-<samp>
+<p>
 ## Let's Connect! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)
 
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=lredmo1&show_icons=true)
-  </samp>
+  </p>
 
