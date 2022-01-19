@@ -10,10 +10,10 @@
 <p align="center">
   <samp>
 Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software Developer in Honolulu, HI. I graduated from Flatiron School's full-time immersive software engineering bootcamp in January 2022 and have a passion for education, art, and community service. 
-</samp>
-<samp>
-  I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
   </samp>
+  <p>
+I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a new career as a developer! 
+  </p>
   </p>
   <br>
   <p align="center">
@@ -44,22 +44,20 @@ Hi there! My name is Lisa Primeaux-Redmond and I am a Full-Stack Jr. Software De
 <hr>
 <!-- <h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles</samp></h2> -->
 <h2 align="center"> Blogs</h2>
-<h5 align="center"> Published Writer for JavaScript in Plain English [info here]</h5>
+<h5 align="center"> Published Writer for JavaScript in Plain English</h5>
 <p align="center" align='right'>
   <a target="_blank" href="https://medium.com/@redlisa125">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I'm currently working on [info here]
-- :seedling: I'm currently learning [info here]
+- :telescope: I'm currently working on my personal portfolio website.
+- :seedling: I'm currently learning constructors.
 - :speech_balloon: Ask me about anything!
-- :crown: Fun fact: [info here].
-## Skills & Experience
-Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Figma
-<!-- ## Let's Connect! -->
-<!--  
+- :crown: Fun fact: I swam around the Key West island. It took me 8 hours and 15 minutes!
+## Let's Connect! 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayled&show_icons=true)
--->
+
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=lredmo1&show_icons=true)
+
