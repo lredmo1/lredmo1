@@ -52,7 +52,7 @@ I am eager to combine my experience in product development and project managemen
 </p>
 
 :stopwatch: My next project is my personal portfolio website.<br>
-:seedling: I'm currently learning constructors.<br>
+:seedling: I'm currently learning TDD.<br>
 :speech_balloon: Ask me about anything!<br>
 :crown: Fun fact: I swam around the Key West island. The 12.5 mile swim took me 8 hours and 15 minutes!
 
