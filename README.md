@@ -8,9 +8,9 @@
 <hr>
 
 <p align="center">
-  <samp>
+<!--   <samp>
 My name is Lisa Primeaux-Redmond and I am a junior full-stack software engineer based in Honolulu, HI working in #edtech at TechChange. I am a graduate of Flatiron School's full-time immersive software engineering bootcamp and have a passion for education, art, and community service. 
-  </samp>
+  </samp> -->
   <p>
 <!--   <samp>
 I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a career as a developer! 
@@ -18,9 +18,9 @@ I am eager to combine my experience in product development and project managemen
   </p>
   </p>
   <p align="center">
-   <samp>
+<!--    <samp>
    When I'm not coding, you can find me in the ocean. I love swimming, surfing, and snorkeling!
-    </samp>
+    </samp> -->
   <br>
   <br><br>
 <hr>
