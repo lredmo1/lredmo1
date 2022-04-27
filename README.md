@@ -5,9 +5,9 @@
   </samp>
   </h1>
 <img src="https://quotefancy.com/media/wallpaper/3840x2160/16819-George-Bernard-Shaw-Quote-People-who-say-it-cannot-be-done-should.jpg" alt="header image" width="100%" height="auto"/>
-<hr>
+<!-- <hr> -->
 
-<p align="center">
+<!-- <p align="center">
 <!--   <samp>
 My name is Lisa Primeaux-Redmond and I am a junior full-stack software engineer based in Honolulu, HI working in #edtech at TechChange. I am a graduate of Flatiron School's full-time immersive software engineering bootcamp and have a passion for education, art, and community service. 
   </samp> -->
@@ -23,7 +23,7 @@ I am eager to combine my experience in product development and project managemen
     </samp> -->
   <br>
   <br><br>
-<hr>
+<hr> -->
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><samp> Technologies </samp> </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
