@@ -1,4 +1,4 @@
-<h1 align="center">  
+<!-- <h1 align="center">  
   <samp>
   Welcome to my GitHub!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
@@ -66,3 +66,4 @@ I am eager to combine my experience in product development and project managemen
 <a href="https://github-readme-stats.vercel.app/api?username=lredmo1&show_icons=true">GitHub Stats</a> 
   </p>
 
+ -->
