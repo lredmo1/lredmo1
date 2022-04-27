@@ -23,7 +23,7 @@ I am eager to combine my experience in product development and project managemen
     </samp>
   <br>
   <br><br>
-<hr> -->
+<hr> 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><samp> Technologies </samp> </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
