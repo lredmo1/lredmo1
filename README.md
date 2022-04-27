@@ -1,26 +1,26 @@
 <h1 align="center">  
   <samp>
   Welcome to my GitHub!
-<!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   </samp>
   </h1>
 <img src="https://quotefancy.com/media/wallpaper/3840x2160/16819-George-Bernard-Shaw-Quote-People-who-say-it-cannot-be-done-should.jpg" alt="header image" width="100%" height="auto"/>
-<!-- <hr> -->
+<hr>
 
-<!-- <p align="center">
-<!--   <samp>
+<p align="center">
+<samp>
 My name is Lisa Primeaux-Redmond and I am a junior full-stack software engineer based in Honolulu, HI working in #edtech at TechChange. I am a graduate of Flatiron School's full-time immersive software engineering bootcamp and have a passion for education, art, and community service. 
-  </samp> -->
+  </samp> 
   <p>
-<!--   <samp>
+<samp>
 I am eager to combine my experience in product development and project management in the education sector with my new expertise in programming to launch a career as a developer! 
-  </samp> -->
+  </samp> 
   </p>
   </p>
   <p align="center">
-<!--    <samp>
+<samp>
    When I'm not coding, you can find me in the ocean. I love swimming, surfing, and snorkeling!
-    </samp> -->
+    </samp>
   <br>
   <br><br>
 <hr> -->
